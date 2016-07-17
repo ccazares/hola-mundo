@@ -1,4 +1,4 @@
 # Hola-Mundo
 Primer proyecto de CCaz
 
-Ente proyecto se inicia para conocer el funcionamiento de GIT
+Este Proyecto se define para conocer el funcionamiento de GIT
